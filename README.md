@@ -15,16 +15,18 @@
 * [Launch your first blockchain network](https://console.ng.bluemix.net/docs/services/blockchain/index.html?pos=2)
 
 ## Getting Started
+This project defines a starting point for a web app. It connects a simple NodeJS backend, and Angular2 frontend to a Hyperledger Fabric peer. Deploying chaincode etc.
 ### Prerequisites
 * docker
 * docker-compose
 * nodejs
 * npm
 * golang
+
 To install these packages on Ubuntu 16.04, you can use [this example reference document](docs/ubuntu.md).
 
 ### Installation
-This project defines a starting point for a web app. It connects a simple NodeJS backend, and Angular2 frontend to a Hyperledger Fabric peer. Deploying chaincode etc.
+
 
 ### Usage
 ```
