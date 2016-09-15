@@ -16,12 +16,19 @@
 
 ## Getting Started
 ### Prerequisites
+* docker
+* docker-compose
+* nodejs
+* npm
+* golang
+To install these packages on Ubuntu 16.04, you can use [this example reference document](docs/ubuntu.md).
 
 ### Installation
 This project defines a starting point for a web app. It connects a simple NodeJS backend, and Angular2 frontend to a Hyperledger Fabric peer. Deploying chaincode etc.
 
 ### Usage
-
-
+```
+$ nodejs app.js
+```
 ## License
 MIT
