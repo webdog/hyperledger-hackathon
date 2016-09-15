@@ -1,3 +1,4 @@
+![Hyperledger Hackathon](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24073835%2F151857795260%2F1%2Foriginal.jpg?w=2000&rect=6%2C0%2C848%2C424&s=6f3dc828814fa07d9d1bf238a0e88af0 "Hyperledger Hackathon")
 # Hyperledger Hackathon
 Dear hackers, welcome to the first Hyperledger Hackathon. Are you up for the challenge? Just 36 hours. Make it fast. Make it awesome.
 
