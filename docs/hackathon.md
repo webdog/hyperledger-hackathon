@@ -41,10 +41,10 @@ Use of other APIs and/or services (inc. Dummy bank) | 1
 Correct Hyperledger Usage | Weight
 --- | ---
 Usage of membership service | 3
-Chaincode should: 
+Chaincode should | 
 be deterministic | 2
 not be computationally expensive | 2
 check roles correctly | 2
-Extra points for:
+Extra points for |
 using off chain storage | 2
 breaking chaincode up into components | 2
