@@ -1,8 +1,6 @@
 # Hackathon
 General information
 
-## Teams
-As a rule of thumb for hackathons: the more coders the better. You need to get an application up and running in a very short amount of time. Diagrams and graphic design are important, but what matters is the end result: the application.
 
 ## Hardware & Software
 Bring your own laptop. Three main operating systems are supported: Windows, macOS and Linux. Preferably the latest version of these systems.
