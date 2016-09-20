@@ -40,6 +40,8 @@ For application and chaincode development you *don’t* need Vagrant.
 #### 2. Bluemix
 * [Getting Started](docs/bluemix.md)
 * [Launch your first blockchain network](https://console.ng.bluemix.net/docs/services/blockchain/index.html?pos=2)
+ 
+ Both plans, the Starter Developer and High Security Business Network, are available for the event.
 
 ## Hyperledger Sawtooth Lake
 * [Introduction](http://intelledger.github.io/introduction.html)
