@@ -39,6 +39,7 @@ Visible audit trail to demonstrate transparency | 1
 Use of other APIs and/or services (inc. Dummy bank) | 1
 
 Correct Hyperledger Usage | Weight
+--- | ---
 Usage of membership service | 3
 Chaincode should: 
 be deterministic | 2
