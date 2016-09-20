@@ -1,1 +1,2 @@
-code stuff only, please refer to the wiki for all sort of information (inc. getting started)
+Dear hackers, welcome to the first Hyperledger Hackathon. Are you up for the challenge? Just 36 hours. Make it fast. Make it awesome. The wiki helps you to get going andprovides all sort of other information.
+
