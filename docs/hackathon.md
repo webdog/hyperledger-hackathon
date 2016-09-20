@@ -13,6 +13,7 @@ During the hackathon, if all goes wrong and you’re under the impression that t
 ### Use case or idea
 
 Use case or idea | Weight
+---|---
 Adressing an actual problem to begin with | 3
 Blockchain facets to adress the problem | 2
 Immutability, Provenance, Consensus, Finality, Trust and Visibility | 2
