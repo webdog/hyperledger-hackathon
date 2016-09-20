@@ -12,7 +12,7 @@ During the hackathon, if all goes wrong and you’re under the impression that t
 ## Criteria
 ### Use case or idea
 - Adressing an actual problem to begin with
-- Uniquess of blockchain usage to adress the problem based on major blockchain facets
+- Blockchain facets to adress the problem
   - Immutability, Provenance, Consensus, Finality, Trust and Visibility
 - Extend or extendability of the Business Network
 - Clear personas that reflect the business network
