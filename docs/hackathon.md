@@ -14,6 +14,7 @@ During the hackathon, if all goes wrong and you’re under the impression that t
 - Adressing an actual problem to begin with
 - Uniquess of blockchain usage to adress the problem
 - Extend or extendability of the Business Network
+- Clear personas that reflect the business network
 
 ### Eco-system impact & Innovation
 - Clear benefits for members in the network
@@ -30,7 +31,6 @@ During the hackathon, if all goes wrong and you’re under the impression that t
 - Obviousness of solving the problem statement
 - Privacy taken into account
 - Visible audit trail to demonstrate transparency
-- Clear personas that reflect the business network
 - Use of other APIs and/or services (inc. Dummy bank)
 
 ### Correct Hyperledger Usage
