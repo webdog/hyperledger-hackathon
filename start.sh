@@ -3,7 +3,7 @@ DIR="$(pwd)"
 
 BC="$DIR/blockchain"
 # Make sure that the directory under /chaincode is the same as the project name
-CC="$DIR/chaincode/"
+CC="$DIR/chaincode"
 CC_GLOBAL="$GOPATH/src/github.com/chaincode"
 
 printf "\nCurrent directory: $DIR \n"
@@ -27,7 +27,8 @@ clear_all()
 clear_all
 
 # copy chaincode in main folder
-yes | cp -rf $CC/chaincode*.go $CC_GLOBAL/chaincode*.go
+mkdir -p $CC_GLOBAL
+yes | cp -rf $CC/chaincode.go $CC_GLOBAL/chaincode.go
 printf "Latest chaincode copied from local to global folder\n"
 
 # run docker-compose
