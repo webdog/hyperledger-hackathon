@@ -4,7 +4,7 @@ Dear hackers, welcome to the first Hyperledger Hackathon. Are you up for the cha
 
 The wiki of this repository helps you to get going and provides all sort of other information:
 
-GENERAL INFORMATION
+[GENERAL INFORMATION](https://github.com/timblankers/hyperledger-hackathon/wiki)
 
 ## Getting Started
 This rest of this readme provides document . It connects a simple NodeJS backend, and Angular2 frontend to a Hyperledger Fabric peer. Deploying chaincode etc.
