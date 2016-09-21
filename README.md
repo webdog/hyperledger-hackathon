@@ -29,11 +29,19 @@ Older operating systems might work. See [Docker Toolbox](https://www.docker.com/
 To install these packages on fresh install of Ubuntu 16.04.1, you can use [this setup script](docs/ubuntu.md).
 
 ### Installation
+Add new GOPATH and PATH variables to `~/.bashrc`
+```
+export GOPATH=$HOME/Workspace
+export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin
+```
+Pull the latest Fabric baseimage:
+```
+docker pull hyperledger/fabric-baseimage:x86_64-0.0.11
+docker tag hyperledger/fabric-baseimage:x86_64-0.0.11 hyperledger/fabric-baseimage:latest
+```
 From the project directory:
 ```
 $ npm install
-$ docker pull hyperledger/fabric-peer:latest
-$ docker pull hyperledger/fabric-membersrvc:latest
 ```
 
 ### Usage
