@@ -26,7 +26,7 @@ Older operating systems might work. See [Docker Toolbox](https://www.docker.com/
 * npm
 * govend
 
-To install these packages on fresh install of Ubuntu 16.04.1, you can use [this setup script](docs/ubuntu.md).
+To install these packages on fresh install of Ubuntu 16.04.1, you can use [this setup script](docs/ubuntu.md). After installation you have to log out and in of Ubuntu again.
 
 ### Installation
 This installation procedure __assumes you are running Ubuntu 16.04.1__. You may use this as a reference if a different OS is used.
