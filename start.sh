@@ -30,6 +30,10 @@ clear_all
 mkdir -p $CC_GLOBAL
 yes | cp -rf $CC/chaincode.go $CC_GLOBAL/chaincode.go
 printf "Latest chaincode copied from local to global folder\n"
+cd $CC_GLOBAL
+printf "$(pwd)"
+govend -v
+cd $DIR
 
 # run docker-compose
 docker-compose up -d 2>/dev/null
