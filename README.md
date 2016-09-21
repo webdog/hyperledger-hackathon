@@ -38,6 +38,10 @@ Add new GOPATH and PATH variables to `~/.bashrc`
 export GOPATH=$HOME/Workspace
 export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin
 ```
+Reload the PATH
+```
+$ source ~/.bashrc
+```
 From the project directory:
 ```
 $ bash docker.sh 0.0.11
