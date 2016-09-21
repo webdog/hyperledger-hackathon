@@ -40,8 +40,8 @@ export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin
 ```
 Pull the latest Fabric baseimage:
 ```
-docker pull hyperledger/fabric-baseimage:x86_64-0.0.11
-docker tag hyperledger/fabric-baseimage:x86_64-0.0.11 hyperledger/fabric-baseimage:latest
+$ docker pull hyperledger/fabric-baseimage:x86_64-0.0.11
+$ docker tag hyperledger/fabric-baseimage:x86_64-0.0.11 hyperledger/fabric-baseimage:latest
 ```
 From the project directory:
 ```
@@ -50,11 +50,7 @@ $ npm install
 
 ### Usage
 ```
-$ docker-compose up
-```
-In a new terminal:
-```
-$ nodejs app.js
+$ ./start.sh
 ```
 
 ### Next Steps
