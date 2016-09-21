@@ -8,6 +8,8 @@ sudo apt-get update && sudo apt-get upgrade -y
 echo "Installing packages"
 sudo apt-get install -y git vim htop golang apt-transport-https ca-certificates nodejs npm
 
+go get -u github.com/govend/govend
+
 mkdir ~/Workspace
 git clone https://github.com/timblankers/hyperledger-hackathon.git ~/Workspace/hyperledger-hackathon
 
