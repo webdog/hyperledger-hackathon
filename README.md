@@ -29,6 +29,8 @@ Older operating systems might work. See [Docker Toolbox](https://www.docker.com/
 To install these packages on fresh install of Ubuntu 16.04.1, you can use [this setup script](docs/ubuntu.md).
 
 ### Installation
+This installation procedure _assumes you are running Ubuntu 16.04.1_. You may use this as a reference if a different OS is used.
+
 Add new GOPATH and PATH variables to `~/.bashrc`
 ```
 export GOPATH=$HOME/Workspace
@@ -58,9 +60,17 @@ If everything is up and running and working correctly you should be able to see 
 
 [localhost:7050/chain](http://localhost:7050/chain)
 
-and a reponse from your NodeJS backend at:
+Simple response from your NodeJS backend at:
 
 [localhost:3000](http://localhost:3000)
+
+Query chaincode response at:
+
+[localhost:3000/query](http://localhost:3000/query)
+
+Invoke chaincode response at:
+
+[localhost:3000/invoke](http://localhost:3000/invoke)
 
 Your application can interact with the blockchain through an API, which is explained in the [NodeSDK Setup](http://hyperledger-fabric.readthedocs.io/en/latest/Setup/NodeSDK-setup/)
 
