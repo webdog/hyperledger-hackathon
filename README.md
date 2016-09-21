@@ -31,7 +31,7 @@ To install these packages on fresh install of Ubuntu 16.04.1, you can use [this 
 ### Installation
 This installation procedure __assumes you are running Ubuntu 16.04.1__. You may use this as a reference if a different OS is used.
 
-*HINT: You can install Ubuntu in Virtualbox. After that, make sure you install the Guest Additions and increase the video memory for better performance.*
+*HINT: You can install Ubuntu in Virtualbox. Allocate at least 16GB for the virtual machine. After that, make sure you install the Guest Additions and increase the video memory for better performance.*
 
 Add new GOPATH and PATH variables to `~/.bashrc`
 ```
