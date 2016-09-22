@@ -26,7 +26,7 @@ Older operating systems might work. See [Docker Toolbox](https://www.docker.com/
 * npm
 * govend
 
-To install these packages on fresh install of Ubuntu 16.04.1, you can use [this setup script](docs/ubuntu.md).
+To install these packages on fresh install of Ubuntu 16.04.1, you can use [this setup script](scripts/setup.sh).
 
 ### Installation
 This installation procedure __assumes you are running Ubuntu 16.04.1__. You may use this as a reference if a different OS is used.
@@ -40,7 +40,7 @@ export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin
 ```
 From the project directory:
 ```
-$ bash docker.sh 0.0.11
+$ bash scripts/docker.sh 0.0.11
 $ npm install
 ```
 
