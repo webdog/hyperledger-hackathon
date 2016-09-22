@@ -119,8 +119,6 @@ and click 'DEPLOY'.</b>
 
 <b>5. After the deployment has completed, click on the 'Deployed to Bluemix sucessfully' link. </b>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/readme_images/res.PNG)
-
 You will land on the Overview page of your application.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/readme_images/yourapp.PNG)
