@@ -7,7 +7,7 @@ The wiki of this repository helps you to get going and provides all sort of othe
 [GENERAL INFORMATION](https://github.com/timblankers/hyperledger-hackathon/wiki)
 
 ## Getting Started
-This rest of this readme provides document . It connects a simple NodeJS backend, and Angular2 frontend to a Hyperledger Fabric peer. Deploying chaincode etc.
+This rest of this readme documents the setup of a local blockchain. It connects a simple NodeJS backend to a Hyperledger Fabric peer. Deploying chaincode etc.
 
 ### System Requirements
 Operating Systems:
