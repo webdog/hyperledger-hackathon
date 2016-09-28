@@ -35,6 +35,7 @@ This installation procedure __assumes you are running Ubuntu 16.04.1__. You may 
 
 Add new GOPATH and PATH variables to `~/.bashrc`
 ```
+# Add these lines at the end of the file ~/.bashrc
 export GOPATH=$HOME/Workspace
 export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin
 ```
