@@ -2,6 +2,11 @@
 
 echo "Preparing for hackathon.."
 
+echo "Updating GOPATH..."
+echo 'export GOPATH=$HOME/Workspace' >> ~/.bash_profile
+echo 'export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin' >> ~/.bash_profile
+source ~/.bash_profile
+
 echo "Updating system"
 sudo apt-get update && sudo apt-get upgrade -y
 
