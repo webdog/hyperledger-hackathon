@@ -43,7 +43,7 @@ Reload the PATH
 ```
 $ source ~/.bashrc
 ```
-From the project directory:
+From the project directory `~/Workspace/hyperledger-fabric`:
 ```
 $ bash scripts/docker.sh 0.0.11
 $ npm install
